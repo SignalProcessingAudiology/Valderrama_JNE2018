@@ -1,2 +1,8 @@
 # Valderrama_JNE2018
-Valderrama J, de la Torre A, Van Dun B. An automatic algorithm for blink-artifact suppression based on iterative template matching: Application to single channel recording of cortical auditory evoked potentials. Journal of Neural Engineering (2018) 15, 016008, 15p. doi: 10.1088/1741-2552/aa8d95.
+Manuscript and supplementary materials for "Valderrama et al. (2018)".
+
+This repository consists of 
+1. [PDF] "Valderrama2018_JNE_Manuscript": Manuscript.
+2. [PDF] "Valderrama2018_JNE_SuppMat1": a PDF file with Supplementary materials
+3. [ZIP] "Valderrama2018_JNE_SuppMat2_ROC_RealEEGs": a compressed directory with files that replicate the ROC curve (Figure 3)
+4. [ZIP] "Valderrama2018_JNE_SuppMat3_ITMS": a compressed directory with files that implement the ITMS algorithm
